@@ -6,7 +6,7 @@ Nim-game is a board game that relies especially on your abilities to calculate p
 
 #### 1 - You can only take at least one, and at most a "m" amount of pieces off the board
 
-#### 2 - The user who takes the least amount of pieces off the board wins
+#### 2 - The user who takes the last amount of pieces off the board wins
 
 # About the program
 
